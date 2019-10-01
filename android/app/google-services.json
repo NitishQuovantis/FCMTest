@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "183556841636",
+    "firebase_url": "https://fir-attendance-1e2cc.firebaseio.com",
+    "project_id": "fir-attendance-1e2cc",
+    "storage_bucket": "fir-attendance-1e2cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183556841636:android:e7993414be1f9cbc0ec631",
+        "android_client_info": {
+          "package_name": "com.fcmtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183556841636-avrdglus1jv1iki7e5h05vmeevckiuvs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fcmtest",
+            "certificate_hash": "fd246aeb43e3e4e3e599750e4031e23dc0e814f4"
+          }
+        },
+        {
+          "client_id": "183556841636-51cbddd5r0ag6cou0khk5cpbh2vmda8l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fcmtest",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "183556841636-h46ukbgurp9errn9jm41beigg3gngiab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8kD8FET1hfX8DswtIU_jixxa0uiZjhqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183556841636-h46ukbgurp9errn9jm41beigg3gngiab.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "183556841636-urteh0114go0h81ak6tgt4jnibo4nj67.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.quovantis.FirebaseDemo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
